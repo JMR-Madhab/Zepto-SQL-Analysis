@@ -6,11 +6,12 @@ It involves **data exploration, cleaning, and business-driven analysis** in Post
 ---
 
 ## 📁 Project Structure
-── schema.sql # Table creation (Zepto dataset)
-── exploration.sql # Data exploration queries
-── cleaning.sql # Data cleaning queries
-── analysis.sql # Business insights queries
-── README.md # Project documentation
+
+─ schema.sql # Table creation (Zepto dataset)
+─ exploration.sql # Data exploration queries
+─ cleaning.sql # Data cleaning queries
+─ analysis.sql # Business insights queries
+─ README.md # Project documentation
 
 
 ---
